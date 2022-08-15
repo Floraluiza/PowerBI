@@ -1,0 +1,34 @@
+Loc.instalação;Localização 1;Localização 2;Equipamento;MetaQuebras
+REM01-1000-1100-E000001;Pomadas;P-01;Envasadora P-01;100
+REM01-1000-1100-E000002;Pomadas;P-01;Encartuchadeira P-01;50
+REM01-1000-1100-E000003;Pomadas;P-01;Seladora P-01;30
+REM01-1000-1100-E000004;Pomadas;P-01;Seladora de pacotes P-01;30
+REM01-1000-1100-E000005;Pomadas;P-01;Esteira P-01;20
+REM01-1000-1100-E000006;Pomadas;P-01;Paletrizadora P-01;15
+REM01-1000-1200-E000001;Pomadas;P-02;Envasadora P-02;100
+REM01-1000-1200-E000002;Pomadas;P-02;Encartuchadeira P-02;50
+REM01-1000-1200-E000003;Pomadas;P-02;Seladora P-02;30
+REM01-1000-1200-E000004;Pomadas;P-02;Seladora de pacotes P-02;30
+REM01-1000-1200-E000005;Pomadas;P-02;Esteira P-02;20
+REM01-1000-1200-E000006;Pomadas;P-02;Paletrizadora P-02;15
+REM01-1000-1200-F000001;Pomadas;Fabricação Pomadas;Mixer 1 Pomadas;10
+REM01-1000-1200-F000002;Pomadas;Fabricação Pomadas;Mixer 2 Pomadas;10
+REM01-1000-2200-F000001;Xarope;Fabricação Xarope;Mixer 1 Xarope;10
+REM01-1000-2200-F000002;Xarope;Fabricação Xarope;Mixer 2 Xarope;10
+REM01-2000-2100-X000001;Xarope;X-01;Envasadora X-01;100
+REM01-2000-2100-X000002;Xarope;X-01;Encartuchadeira X-01;50
+REM01-2000-2100-X000003;Xarope;X-01;Seladora X-01;30
+REM01-2000-2100-X000004;Xarope;X-01;Seladora de pacotes X-01;30
+REM01-2000-2100-X000005;Xarope;X-01;Esteira X-01;20
+REM01-2000-2100-X000006;Xarope;X-01;Paletrizadora X-01;15
+REM01-2000-2200-X000001;Xarope;X-02;Envasadora X-02;100
+REM01-2000-2200-X000002;Xarope;X-02;Encartuchadeira X-02;50
+REM01-2000-2200-X000003;Xarope;X-02;Seladora X-02;30
+REM01-2000-2200-X000004;Xarope;X-02;Seladora de pacotes X-02;30
+REM01-2000-2200-X000005;Xarope;X-02;Esteira X-02;20
+REM01-2000-2200-X000006;Xarope;X-02;Paletrizadora X-02;15
+REM01-3000-3100-C000001;Utilidades;Compressores;Compressor  - GA 55;10
+REM01-3000-3100-C000002;Utilidades;Compressores;Compressor  - GA 160;10
+REM01-3000-3200-T000001;Utilidades;Subsestação;Trafo 1000 KVA;1
+REM01-3000-3200-T000002;Utilidades;Subsestação;Trafo 750 KVA;1
+REM01-3000-3300-C000001;Utilidades;Sala de Caldeiras;Caldeira 01;1
